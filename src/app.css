@@ -1,0 +1,22 @@
+
+.gameDiv{
+    background-color : white;
+    margin-top: 30px;
+    margin:auto;
+    padding:1%;
+}
+
+#table{
+    width:80%;
+    margin:auto;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+
+#table>thead>tr>td,#table>tbody>tr>td{
+    border: 1px solid black;  
+}
+
+form{
+    margin:auto;
+}
